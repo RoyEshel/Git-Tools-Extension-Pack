@@ -16,6 +16,8 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory"
     ]
 }
