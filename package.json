@@ -1,0 +1,21 @@
+{
+    "name": "git-tools-extension-pack",
+    "displayName": "Git Tools Extension Pack",
+    "description": "Useful git tools",
+    "version": "1.0.0",
+    "publisher": "RoyEshel",
+    "license": "MIT",
+    "repository": {
+	    "type": "git",
+		"url": "https://github.com/RoyEshel/Git-Tools-Extension-Pack"
+	},
+    "engines": {
+        "vscode": "^1.91.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
