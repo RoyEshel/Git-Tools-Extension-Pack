@@ -2,7 +2,7 @@
     "name": "git-tools-extension-pack",
     "displayName": "Git Tools Extension Pack",
     "description": "Useful git tools",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "publisher": "RoyEshel",
     "license": "MIT",
     "icon": "icon.png",
