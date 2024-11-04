@@ -10,7 +10,6 @@
 - Added an icon to the extension pack.
 
 ## v1.0.1 (Jul 17, 2024)
-- Updated the README.
 - Added GitLens.
 - Added Git Graph.
 - Added Git History.
